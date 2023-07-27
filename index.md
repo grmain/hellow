@@ -1,6 +1,4 @@
 ---
-title: "Le titre de la page"
+title: "Les Éditions Postales et Décoratives du Peuple"
 ---
-# Eul titre
-
-Germain essaye des trucs 
+![logo](https://editions-pdp.fr/wp-content/uploads/2023/06/logo2-1-768x397.png) 
